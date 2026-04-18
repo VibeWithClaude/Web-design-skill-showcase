@@ -74,7 +74,7 @@ Copy and paste the following prompt to have the AI Agent build the "Aether Desig
 
 ## 🤖 For Agents
 
-This workspace expects the Agent to adhere to the `webdesign-frontend-skill` instructions located in `.agent/skills/taste-skill/SKILL.md`. This includes using premium typography stacks, avoiding AI-cliché purples/neons, and implementing spring-based motion physics.
+This workspace expects the Agent to adhere to the `webdesign-frontend-skill` instructions located in `.agent/skills/design-skill/SKILL.md`. This includes using premium typography stacks, avoiding AI-cliché purples/neons, and implementing spring-based motion physics.
 
 ---
 
